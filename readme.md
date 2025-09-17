@@ -7,6 +7,6 @@ this is line 1
 i am pasindu lakshan
 
 this is a line for testing git push
-
 def print_sum()
+
 
